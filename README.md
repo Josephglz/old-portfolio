@@ -1,2 +1,2 @@
 # PortfolioTemplate
-Personal Portfolio Page
+Personal Portfolio Page responsive and smooth.
