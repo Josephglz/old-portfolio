@@ -1,2 +1,2 @@
 # Personal Portfolio 🔥
-> http://josephglz.tech
+> http://josephglz.me
