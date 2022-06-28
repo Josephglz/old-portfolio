@@ -504,6 +504,7 @@ section .container {
 
 .interests .icon-box:hover {
   background: #042b56eb;
+  cursor: pointer;
 }
 
 /*--------------------------------------------------------------
